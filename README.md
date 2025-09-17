@@ -5,7 +5,7 @@ A web developer on a mission, I changed my life a year ago to dive into coding. 
 - 🔭 Current projects: Building my startup Syndicore (a secret for now ) and created a film review website—check it out [here](https://opus-movies.netlify.app/)
 - 🌱 Goal: Become a skilled developer and help make the world smarter and more connected.
 - 👯 Collaborations: Open to exciting projects and creative ideas!
-  - 📧 Reach me at: simone.visconti4@gmail.com (mailto:simone.visconti4@gmail.com) 
+  - 📧 Reach me at: simone.visconti4@gmail.com
 
 <!--
 **Johnnyfromtheblock4/Johnnyfromtheblock4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
