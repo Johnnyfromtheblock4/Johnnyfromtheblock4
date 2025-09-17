@@ -1,8 +1,10 @@
 ## Hi there 👋
+My name is Simone Visconti and I'm a web develpoer. I changed my life a year ago and decided to start learnging coding. I'm currently studying HTML, CSS, JS, REACT, NODE, EXPRESS and SQL, but I still have a long way to go! I love coding cause is like bringing words to reality! Can't wait to be a good dev and helping the world to be a better/smarter place!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a new start-up called Syndicore, the main project is still a secret 🤫
+- 🌱 I’m currently learning Crypto Chains and I've just done a film review website that you can check out [here](https://opus-movies.netlify.app/)
+- 👯 I’m looking to collaborate any cool ideas!
+  - 📧 Send me enquire at simone.visconti4@gmail.com
 
 <!--
 **Johnnyfromtheblock4/Johnnyfromtheblock4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
