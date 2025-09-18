@@ -5,11 +5,11 @@
 
 - 👯 Collaborations: **Open to exciting projects and creative ideas!**
 
-- 🔭 Current projects: [Building my startup Syndicore (a secret for now ) and created a film review website—check it out here:](https://opus-movies.netlify.app/)
+- 🔭 Current projects: Building my startup Syndicore (a secret for now ) and created a film review website, check it out [here](https://opus-movies.netlify.app/)
 
 - 🎯 Goals: **Become a skilled developer and help make the world smarter and more connected.**
 
-- 👨‍💻 All of my projects are available at [https://simone-visconti-dev.netlify.app/](https://simone-visconti-dev.netlify.app/)
+- 👨‍💻 Here you can see my portfolio: [https://simone-visconti-dev.netlify.app/](https://simone-visconti-dev.netlify.app/)
 
 - 📫 How to reach me: **simone.visconti4@gmail.com**
 
