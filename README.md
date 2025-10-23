@@ -9,7 +9,7 @@
 
 - 🎯 Goals: **Become a skilled developer and help make the world smarter and more connected.**
 
-- 👨‍💻 Here you can see my portfolio: [https://simone-visconti-dev.netlify.app/](https://simonevisconti.site)
+- 👨‍💻 Here you can see my portfolio: [here](https://simonevisconti.site)
 
 - 📫 How to reach me: **simone.visconti4@gmail.com**
 
